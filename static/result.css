@@ -1,0 +1,53 @@
+body {
+    background-image: url(static/background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+.nav-link, .navbar-brand{
+    color:black !important;
+  }
+
+  .regform {
+    width: 60%;
+    background-color: rgb(52, 103, 117);
+    margin: auto;
+    color: black;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+  }
+
+  .main-form {
+    width: 60%;
+    margin: auto;
+    background-color: rgb(185, 217, 223);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    color: black;
+  }
+
+  .form-group {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  p {
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  .navigation {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(201, 224, 248, 1) 86%,
+      rgba(180, 205, 233, 1) 100%
+    );
+  }
+  .result-img{
+    width: 70% ;
+    height: 70%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }

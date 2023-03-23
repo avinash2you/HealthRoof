@@ -1,0 +1,45 @@
+body {
+    background-image: url('../static/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+
+}
+.nav-link, .navbar-brand{
+    color:black !important;
+}
+.regform {
+    width: 70%;
+    background-color: rgb(52, 103, 117);
+    margin: auto;
+    color: #FFFFFF;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+
+}
+
+.main-form {
+    width: 70%;
+    margin: auto;
+    background-color: rgb(185, 217, 223);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    color: #000000;
+}
+
+.form-group {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.navbar{
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(201,224,248,1) 86%, rgba(180,205,233,1) 100%);
+    color: #000000;
+}
+.form-text{
+    color: #ff0000 !important;
+}
+.navbar-toggler-icon{
+    color: #000000;
+}
